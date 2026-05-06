@@ -1,4 +1,4 @@
-The all homeworks through "Programming" lecture at Shiraz University.
-language : C
-Semester : 1st
-Date : Fall 2024
+The all homeworks through "Programming" lecture at Shiraz University\n
+language : C\n
+Semester : 1st\n
+Date : Fall 2024\n
